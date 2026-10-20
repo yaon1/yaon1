@@ -31,6 +31,7 @@
 ## Как устроена работа
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#EEF2FF","primaryBorderColor":"#6366F1","primaryTextColor":"#1E1B4B","lineColor":"#818CF8"}}}%%
 flowchart LR
   A[Задача] --> B[Архитектура<br/>и API]
   B --> C[Бэкенд<br/>PHP · Node.js]
@@ -44,6 +45,7 @@ flowchart LR
 ## Языки в открытых репозиториях
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"pie1":"#3178C6","pie2":"#777BB4","pie3":"#42B883","pie4":"#4EAA25","pie5":"#94A3B8","pieStrokeColor":"#ffffff","pieOuterStrokeColor":"#ffffff","pieSectionTextColor":"#ffffff","pieTitleTextColor":"#6366F1","pieLegendTextColor":"#6366F1"}}}%%
 pie showData
   "TypeScript" : 40.5
   "PHP" : 35.3
