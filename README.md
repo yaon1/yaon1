@@ -9,8 +9,6 @@
 
 </div>
 
-Пишу веб целиком — от базы данных и API до интерфейса и деплоя. Люблю, когда код проверяют тесты и статанализ, а релиз уезжает сам по пушу.
-
 ## Стек
 
 <p align="center">
@@ -27,32 +25,6 @@
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
 | **CMS** | ![1C-Bitrix](https://img.shields.io/badge/1С--Битрикс-E30613?style=flat-square) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![OpenCart](https://img.shields.io/badge/OpenCart-23A1D1?style=flat-square) ![MODX](https://img.shields.io/badge/MODX-102C53?style=flat-square&logo=modx&logoColor=white) ![Tilda](https://img.shields.io/badge/Tilda-000000?style=flat-square) |
 | **AI** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) |
-
-## Как устроена работа
-
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"primaryColor":"#EEF2FF","primaryBorderColor":"#6366F1","primaryTextColor":"#1E1B4B","lineColor":"#818CF8"}}}%%
-flowchart LR
-  A[Задача] --> B[Архитектура<br/>и API]
-  B --> C[Бэкенд<br/>PHP · Node.js]
-  B --> D[Интерфейс<br/>Vue · React]
-  C --> E[Тесты и<br/>статанализ]
-  D --> E
-  E --> F[CI/CD<br/>GitHub Actions]
-  F --> G[Прод<br/>Docker]
-```
-
-## Языки в открытых репозиториях
-
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"pie1":"#3178C6","pie2":"#777BB4","pie3":"#42B883","pie4":"#4EAA25","pie5":"#94A3B8","pieStrokeColor":"#ffffff","pieOuterStrokeColor":"#ffffff","pieSectionTextColor":"#ffffff","pieTitleTextColor":"#6366F1","pieLegendTextColor":"#6366F1"}}}%%
-pie showData
-  "TypeScript" : 40.5
-  "PHP" : 35.3
-  "Vue" : 18.1
-  "Shell" : 3.0
-  "Прочее" : 3.1
-```
 
 <p align="center">
   <picture>
