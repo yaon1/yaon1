@@ -26,11 +26,4 @@
 | **CMS** | ![1C-Bitrix](https://img.shields.io/badge/1С--Битрикс-E30613?style=flat-square) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![OpenCart](https://img.shields.io/badge/OpenCart-23A1D1?style=flat-square) ![MODX](https://img.shields.io/badge/MODX-102C53?style=flat-square&logo=modx&logoColor=white) ![Tilda](https://img.shields.io/badge/Tilda-000000?style=flat-square) |
 | **AI** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) |
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaon1/yaon1/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/yaon1/yaon1/output/github-snake.svg" alt="Contribution snake" />
-  </picture>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,50:4f46e5,100:1e1b4b&height=100&section=footer" width="100%" alt="" />
