@@ -87,9 +87,6 @@ Fullstack developer building products end to end: Telegram bots and Mini Apps, w
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaon1&bg_color=0d1117&color=a5b4fc&line=6366f1&point=ffffff&area=true&hide_border=true&radius=8" alt="Activity graph" width="100%" />
-</p>
 
 ## 🤝 Чем могу помочь
 
