@@ -8,7 +8,6 @@
   <a href="https://t.me/s_arinin"><img src="https://img.shields.io/badge/Telegram-@s__arinin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.linkedin.com/in/sergey-arinin-310316445/"><img src="https://img.shields.io/badge/LinkedIn-Sergey%20Arinin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://thaiboard.online"><img src="https://img.shields.io/badge/Thai%20Board-thaiboard.online-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Thai Board" /></a>
-  <img src="https://komarev.com/ghpvc/?username=yaon1&style=for-the-badge&color=6366f1&label=Profile+views" alt="Profile views" />
 </p>
 
 <img src="https://img.shields.io/badge/Open%20to%20work-remote-22c55e?style=flat-square" alt="Open to work" />
