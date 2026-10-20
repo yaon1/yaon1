@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:818cf8&height=180&section=header&text=Sergey%20Arinin&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sergey Arinin" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&width=560&lines=TypeScript+%C2%B7+Vue+%2F+Nuxt+%C2%B7+React;PHP+8+%C2%B7+Node.js+%C2%B7+WebSocket;Telegram+bots+%26+Mini+Apps;AI-native+development" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat    &weight=600&size=20&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&width=560&lines=TypeScript+%C2%B7+Vue+%2F+Nuxt+%C2%B7+React;PHP+8+%C2%B7+Node.js+%C2%B7+WebSocket;Telegram+bots+%26+Mini+Apps;AI-native+development" alt="" />
 
 <a href="https://t.me/s_arinin"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://www.linkedin.com/in/sergey-arinin-310316445/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
