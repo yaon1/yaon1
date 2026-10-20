@@ -1,94 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:818cf8&height=200&section=header&text=Sergey%20Arinin&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20TypeScript%20%C2%B7%20Vue%20%C2%B7%20React%20%C2%B7%20PHP&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sergey Arinin — Fullstack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:818cf8&height=180&section=header&text=Sergey%20Arinin&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sergey Arinin" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=640&lines=Telegram+Mini+Apps+%26+bots;Vue+3+%2F+Nuxt+%C2%B7+React+%C2%B7+TypeScript;PHP+8.4+%C2%B7+async+AMPHP+%C2%B7+WebSocket;AI-native+development+with+Claude+Code;From+idea+to+production+in+weeks" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&width=560&lines=TypeScript+%C2%B7+Vue+%2F+Nuxt+%C2%B7+React;PHP+8+%C2%B7+Node.js+%C2%B7+WebSocket;Telegram+bots+%26+Mini+Apps;AI-native+development" alt="" />
 
-<p>
-  <a href="https://t.me/s_arinin"><img src="https://img.shields.io/badge/Telegram-@s__arinin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/sergey-arinin-310316445/"><img src="https://img.shields.io/badge/LinkedIn-Sergey%20Arinin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://thaiboard.online"><img src="https://img.shields.io/badge/Thai%20Board-thaiboard.online-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Thai Board" /></a>
-</p>
-
-<img src="https://img.shields.io/badge/Open%20to%20work-remote-22c55e?style=flat-square" alt="Open to work" />
-<img src="https://img.shields.io/badge/Timezone-MSK%2B4%20(works%20MSK%20hours)-64748b?style=flat-square" alt="Timezone" />
+<a href="https://t.me/s_arinin"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/sergey-arinin-310316445/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
-## 👋 Обо мне
+Пишу веб целиком — от базы данных и API до интерфейса и деплоя. Люблю, когда код проверяют тесты и статанализ, а релиз уезжает сам по пушу.
 
-Fullstack-разработчик: от архитектуры и бэкенда до интерфейса, CI/CD и продакшена. Делаю продукты целиком — Telegram-боты и Mini Apps, веб-приложения, админки, интеграции с внешними API — и довожу их до релиза с тестами и статанализом.
-
-- 🚀 Сейчас развиваю **[Thai Board](https://thaiboard.online)** — Telegram-маркетплейс услуг и товаров для Таиланда: бот, Mini App, админ-панель, лендинг на 3 языках, асинхронный API.
-- 🧩 Коммерческий опыт с 2023 года: продуктовая frontend-команда, digital-агентство, сейчас — ведущий программист веб-студии.
-- 🤖 AI-native разработка: Claude Code, MCP, собственные skills и плагины — быстрее классической команды без потери качества.
-- 🌏 Живу в Паттайе, работаю удалённо по московскому времени.
-
-<details>
-<summary><b>🇬🇧 In English</b></summary>
-
-Fullstack developer building products end to end: Telegram bots and Mini Apps, web apps, admin panels and API integrations — shipped to production with tests, static analysis and CI/CD. Currently building **Thai Board**, a Telegram-first marketplace (bot, Mini App, admin, multilingual landing, async PHP backend). Remote, Moscow-time friendly.
-
-</details>
-
-## 🛠 Стек
+## Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,tailwind,vite,html,css,sass&perline=10" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,redis,postgres,sqlite,wordpress,docker,nginx,linux&perline=10" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=githubactions,git,prometheus,grafana,figma,vitest,vscode,bash&perline=8" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,tailwind,vite,sass,php,nodejs,mysql,redis,postgres,sqlite,docker,githubactions,nginx,linux,figma,wordpress&perline=10" alt="Skills" />
 </p>
 
-| Область | Чем пользуюсь |
+| | |
 |---|---|
-| **Frontend** | TypeScript, Vue 3 / Nuxt 4, Pinia, React, Redux, Vuetify 3, Tailwind CSS v4, Storybook |
-| **Backend** | PHP 8.4 (асинхронный AMPHP), REST / JSON-RPC, WebSocket, Node.js, MariaDB / MySQL, Redis, очереди |
-| **Telegram** | Bot API, Mini Apps (WebApp SDK, initData), Telegram Stars |
-| **Качество** | PHPUnit, PHPStan level 8, Psalm, Vitest, code review, security review |
-| **DevOps** | Docker Compose, GitHub Actions (тесты → линтеры → автодеплой), Prometheus / Grafana |
-| **CMS** | 1С-Битрикс, WordPress, OpenCart, MODX, Tilda |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-F7D336?style=flat-square&logo=pinia&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white) ![AMPHP](https://img.shields.io/badge/AMPHP_async-4F46E5?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![REST](https://img.shields.io/badge/REST_·_JSON--RPC-475569?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Данные** | ![MySQL](https://img.shields.io/badge/MySQL_/_MariaDB-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Telegram** | ![Bot API](https://img.shields.io/badge/Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white) ![Mini Apps](https://img.shields.io/badge/Mini_Apps-26A5E4?style=flat-square&logo=telegram&logoColor=white) ![Stars](https://img.shields.io/badge/Telegram_Stars-F59E0B?style=flat-square) |
+| **Качество** | ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square) ![PHPStan](https://img.shields.io/badge/PHPStan_lvl_8-4F5B93?style=flat-square) ![Psalm](https://img.shields.io/badge/Psalm-6366F1?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **CMS** | ![1C-Bitrix](https://img.shields.io/badge/1С--Битрикс-E30613?style=flat-square) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![OpenCart](https://img.shields.io/badge/OpenCart-23A1D1?style=flat-square) ![MODX](https://img.shields.io/badge/MODX-102C53?style=flat-square&logo=modx&logoColor=white) ![Tilda](https://img.shields.io/badge/Tilda-000000?style=flat-square) |
+| **AI** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) |
 
-## ⭐ Open source
+## Как устроена работа
 
-| Проект | Что делает | Стек |
-|---|---|---|
-| 🧩 **[vue-kit](https://github.com/yaon1/vue-kit)** | Доступные компоненты Vue 3: Combobox по WAI-ARIA, таблица на 100 000+ строк с виртуализацией, тосты, диалоги. ≈12 кБ JS в gzip | Vue 3, TS |
-| 🔐 **[nuxt-telegram-auth](https://github.com/yaon1/nuxt-telegram-auth)** | Вход через Telegram для Nuxt 4 — на сайте и в Mini Apps, проверка подписи на Web Crypto, шифрованная cookie-сессия | Nuxt, TS |
-| 📈 **[uptime-board](https://github.com/yaon1/uptime-board)** | Self-hosted мониторинг со страницей статуса: HTTP, порты, DNS, heartbeat для cron, алерты в Telegram/Slack | Nuxt, Node 22, SQLite |
-| 🗂 **[job-tracker](https://github.com/yaon1/job-tracker)** | Канбан-трекер откликов: импорт вакансий с hh.ru по ссылке, воронка, iCal-лента собеседований | PHP, Vue, SQLite |
-| 🤖 **[telegram-bot-client](https://github.com/yaon1/telegram-bot-client)** | Строго типизированный PSR-18 клиент Telegram Bot API, long polling с учётом `retry_after` | PHP 8.2+ |
-| 🛠 **[claude-php-toolkit](https://github.com/yaon1/claude-php-toolkit)** | Плагин Claude Code для PHP-проектов: хуки безопасности, PHPStan после каждой правки, 25 скиллов | Claude Code, PHP |
-| 🐳 **[php-docker-images](https://github.com/yaon1/php-docker-images)** | Production-образы PHP 8.2–8.5 (fpm/cli, Alpine/Debian, amd64/arm64), настройка через env, cosign + SBOM | Docker |
-| 📊 **[php-fpm-exporter](https://github.com/yaon1/php-fpm-exporter)** | Prometheus-экспортер PHP-FPM и OPcache по FastCGI с готовым дашбордом Grafana | PHP, Prometheus |
-| 📦 **[vite-plugin-size-budget](https://github.com/yaon1/vite-plugin-size-budget)** | Роняет CI-сборку при превышении gzip/brotli-бюджета, таблица изменений в саммари GitHub Actions | Vite, TS |
-| 💬 **[green-api-chat](https://github.com/yaon1/green-api-chat)** | Чат для Telegram через GREEN-API ([демо](https://yaon1.github.io/green-api-chat/)) | React, TS |
+```mermaid
+flowchart LR
+  A[Задача] --> B[Архитектура<br/>и API]
+  B --> C[Бэкенд<br/>PHP · Node.js]
+  B --> D[Интерфейс<br/>Vue · React]
+  C --> E[Тесты и<br/>статанализ]
+  D --> E
+  E --> F[CI/CD<br/>GitHub Actions]
+  F --> G[Прод<br/>Docker]
+```
 
-## 🏝 Thai Board — главный проект
+## Языки в открытых репозиториях
 
-> Открытый рынок Таиланда прямо в Telegram — объявления с модерацией, чат внутри сервиса и честные отзывы.
-
-- **Архитектура:** единый асинхронный процесс на PHP 8.4 + AMPHP (HTTP API + WebSocket + Telegram-бот + планировщик + воркеры), слои Domain / App / Infrastructure.
-- **Фронтенды:** Mini App, админка на Vuetify и SSG-лендинг на Nuxt 4 + TypeScript, общая UI-библиотека ~150 компонентов со Storybook, i18n RU / EN / TH.
-- **Продукт:** чат в реальном времени, сделки и отзывы, модерация, роли и аудит действий, продвижение за Telegram Stars.
-- **Качество и релизы:** 70+ тестовых классов, PHPStan level 8 + Psalm, GitHub Actions с автодеплоем, 6 Docker-сервисов, метрики и бэкапы.
-
-<p align="center">
-  <a href="https://thaiboard.online"><img src="https://img.shields.io/badge/Сайт-thaiboard.online-4F46E5?style=for-the-badge" alt="thaiboard.online" /></a>
-  <a href="https://t.me/thaiboardbot"><img src="https://img.shields.io/badge/Mini%20App-@thaiboardbot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@thaiboardbot" /></a>
-</p>
-
-## 📊 Активность
+```mermaid
+pie showData
+  "TypeScript" : 40.5
+  "PHP" : 35.3
+  "Vue" : 18.1
+  "Shell" : 3.0
+  "Прочее" : 3.1
+```
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaon1/yaon1/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/yaon1/yaon1/output/github-snake.svg" alt="Snake eating my contributions" />
+    <img src="https://raw.githubusercontent.com/yaon1/yaon1/output/github-snake.svg" alt="Contribution snake" />
   </picture>
 </p>
 
-
-## 🤝 Чем могу помочь
-
-Ищу удалённую работу Fullstack / Frontend-разработчиком и беру проектные задачи: Telegram-боты и Mini Apps, веб-приложения на Vue/Nuxt или React, бэкенд на PHP, интеграции с API и CRM, доработка сайтов на Битрикс и WordPress. Пишите в [Telegram](https://t.me/s_arinin).
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,50:4f46e5,100:1e1b4b&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,50:4f46e5,100:1e1b4b&height=100&section=footer" width="100%" alt="" />
